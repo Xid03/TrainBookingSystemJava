@@ -1,0 +1,23 @@
+# Compiled Java output
+*.class
+*.jar
+*.war
+*.ear
+
+# Build directories
+bin/
+build/
+out/
+target/
+
+# Editor and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# BlueJ backup files
+*.ctxt~
+*.java~
+*.bluej~
