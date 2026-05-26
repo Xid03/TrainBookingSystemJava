@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Train Booking System Java
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This BlueJ project uses README.md as the main GitHub documentation file.
+Open README.md for the full project overview, features, installation steps,
+usage guide, folder structure, and contact information.
